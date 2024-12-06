@@ -2,4 +2,6 @@
 /workspace.xml
 .idea/*
 lib/__pycache__/*
+.vscode
+.DS_Store
 
